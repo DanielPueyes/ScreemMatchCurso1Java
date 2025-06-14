@@ -22,7 +22,7 @@ public class Principal {
     private Scanner teclado = new Scanner(System.in);
     private ConsumoAPI consumoApi = new ConsumoAPI();
     private final String URL_BASE = "https://www.omdbapi.com/?t=";
-    private final String API_KEY = "&apikey=6bf1a2f4";
+    private final String API_KEY = "Tu APIKEY omdb";
     private ConvierteDatos conversor = new ConvierteDatos();
 
     public void muestraElMenu(){
