@@ -1,4 +1,3 @@
-# ScreemMatchCurso1Java
 # Screenmatch - Proyecto Java de Series
 
 **Screenmatch** es una aplicación desarrollada en Java que permite buscar, analizar y procesar series de televisión utilizando datos provenientes de una API externa. El proyecto fue desarrollado como parte del curso _"Java Web: crea aplicaciones utilizando Spring Boot"_ y tiene como objetivo aplicar buenas prácticas de desarrollo con Java moderno.
